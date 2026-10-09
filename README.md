@@ -13,10 +13,6 @@ Website Curriculum Vitae (CV) interaktif milik Adesta Eka Saputra, seorang Mahas
 - HTML5
 - CSS3 (Custom Styling)
 
-## Cara Menjalankan
-1. Clone repositori ini
-2. Buka file `index.html` menggunakan web browser pilihan Anda
-
 ## Kontak & Tautan
 - [Portofolio Personal](https://dezz.my.id)
 - [Direktori Web](https://sptrapedia.my.id)
